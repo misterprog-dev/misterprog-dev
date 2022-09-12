@@ -16,7 +16,7 @@
 🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.04%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **My Most Productive days** 
 
 ```text
 Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
@@ -30,20 +30,7 @@ Sunday       69 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C** 
+**My Most Codes** 
 
 ```text
 C                        19 repos            ██████░░░░░░░░░░░░░░░░░░░   26.76% 
