@@ -61,7 +61,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 ## **My Personal Stats 📈**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrraph&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterprog-dev&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **My Top 10 Languages 📣**
 
