@@ -26,8 +26,6 @@ Sunday       69 commits     █████░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## **⚡ Recent Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/misterprog-dev](https://github.com/misterprog-dev/misterprog-dev)
 2. ⬆️ Pushed 1 commit(s) to [misterprog-dev/misterprog-dev](https://github.com/misterprog-dev/misterprog-dev)
