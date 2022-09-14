@@ -2,7 +2,7 @@ name: Waka README Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/2 * * *'
+    - cron: '*/2 * * * *'
 jobs:
   update-readme:
     name: Update this repo's README
