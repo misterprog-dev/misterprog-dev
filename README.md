@@ -13,7 +13,7 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-📅 **My Productive days** 
+## **📅 My Productive days** 
 ```text
 Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
 Tuesday      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
@@ -28,10 +28,6 @@ Sunday       69 commits     █████░░░░░░░░░░░░�
 # **⚡ Recent Activity**
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 14th, 2022, 9:37:04 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
 misterprog-dev/misterprog-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
