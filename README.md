@@ -16,7 +16,7 @@ No Activity tracked this Week
 
 ## **My Top 10 Languages 📣**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterprog-dev&langs_count=10&layout=compact&hide=html,css&hide_title=true&&&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterprog-dev&langs_count=10&layout=compact&hide=html,css&hide_title=true&&&show_icons=true)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
