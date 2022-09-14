@@ -5,8 +5,8 @@
 - 📫 How to reach me ? this is my email : soum.diakite@outlook.com and my LinkedIn profil: https://www.linkedin.com/in/diakite-soumaila-a61185156
 
 
-## **My Personal Stats 📈**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterprog-dev&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)](https://github.com/anuraghazra/github-readme-stats)
+## **📈 My Personal Stats**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misterprog-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **📣 My Top 10 Languages**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterprog-dev&langs_count=10&layout=compact&hide=html,css&hide_title=true&&&show_icons=true)
