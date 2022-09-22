@@ -12,12 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterprog-dev&langs_count=10&layout=compact&hide=html,css&hide_title=true&&&show_icons=true)
 )](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [misterprog-dev/banking-kata-java](https://github.com/misterprog-dev/banking-kata-java) from [valentinacupac/banking-kata-java](https://github.com/valentinacupac/banking-kata-java)
