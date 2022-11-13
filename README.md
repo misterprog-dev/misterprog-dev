@@ -14,14 +14,14 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/Fraction-Kata](https://github.com/misterprog-dev/Fraction-Kata)
-2. 📔 Created new repository [misterprog-dev/Fraction-Kata](https://github.com/misterprog-dev/Fraction-Kata)
-3. 📔 Created new repository [misterprog-dev/FizzBuzz-Kata](https://github.com/misterprog-dev/FizzBuzz-Kata)
-4. 📔 Created new repository [misterprog-dev/BlackJack-Kata](https://github.com/misterprog-dev/BlackJack-Kata)
-5. 📔 Created new repository [misterprog-dev/BlackJack-Kata](https://github.com/misterprog-dev/BlackJack-Kata)
+1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/react-pokemon-app](https://github.com/misterprog-dev/react-pokemon-app)
+2. 📔 Created new repository [misterprog-dev/react-pokemon-app](https://github.com/misterprog-dev/react-pokemon-app)
+3. ⬆️ Pushed 1 commit(s) to [misterprog-dev/Fraction-Kata](https://github.com/misterprog-dev/Fraction-Kata)
+4. 📔 Created new repository [misterprog-dev/Fraction-Kata](https://github.com/misterprog-dev/Fraction-Kata)
+5. 📔 Created new repository [misterprog-dev/FizzBuzz-Kata](https://github.com/misterprog-dev/FizzBuzz-Kata)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 12th, 2022, 1:24:50 AM
+Last Updated: Sunday, November 13th, 2022, 1:26:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
