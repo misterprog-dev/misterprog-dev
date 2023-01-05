@@ -14,14 +14,14 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD](https://github.com/misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD)
-2. ⬆️ Pushed 1 commit(s) to [misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD](https://github.com/misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD)
-3. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)
-4. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)
-5. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)
+1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)<br>
+2. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)<br>
+3. ⬆️ Pushed 1 commit(s) to [misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD](https://github.com/misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD)<br>
+4. ⬆️ Pushed 1 commit(s) to [misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD](https://github.com/misterprog-dev/learn-tdd-with_modern-c-programming-with-TDD)<br>
+5. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 4th, 2023, 1:08:36 AM
+Last Updated: Thursday, January 5th, 2023, 1:11:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
