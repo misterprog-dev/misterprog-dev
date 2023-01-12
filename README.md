@@ -14,14 +14,14 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [misterprog-dev/100-template-list](https://github.com/misterprog-dev/100-template-list) from [technext/100-template-list](https://github.com/technext/100-template-list)<br>
-2. ⬆️ Pushed 1 commit(s) to [misterprog-dev/Simulateur-reseau-M-thode-Dijsktrak](https://github.com/misterprog-dev/Simulateur-reseau-M-thode-Dijsktrak)<br>
-3. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)<br>
-4. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)<br>
-5. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-springboot](https://github.com/misterprog-dev/template-springboot)<br>
+1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-java-springboot](https://github.com/misterprog-dev/template-java-springboot)<br>
+2. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-java-springboot](https://github.com/misterprog-dev/template-java-springboot)<br>
+3. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-java-springboot](https://github.com/misterprog-dev/template-java-springboot)<br>
+4. ⬆️ Pushed 1 commit(s) to [misterprog-dev/template-java-springboot](https://github.com/misterprog-dev/template-java-springboot)<br>
+5. ⬆️ Pushed 1 commit(s) to [misterprog-dev/my-katas](https://github.com/misterprog-dev/my-katas)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 11th, 2023, 1:09:51 AM
+Last Updated: Thursday, January 12th, 2023, 1:10:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
