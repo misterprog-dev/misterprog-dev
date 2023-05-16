@@ -14,14 +14,14 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/kata-bank-account](https://github.com/misterprog-dev/kata-bank-account)<br>
-2. ⬆️ Pushed 3 commit(s) to [misterprog-dev/kata-bank-account](https://github.com/misterprog-dev/kata-bank-account)<br>
-3. 🎉 Merged PR [#1](https://github.com/misterprog-dev/kata-bank-account/pull/1) in [misterprog-dev/kata-bank-account](https://github.com/misterprog-dev/kata-bank-account)<br>
-4. 💪 Opened PR [#1](https://github.com/misterprog-dev/kata-bank-account/pull/1) in [misterprog-dev/kata-bank-account](https://github.com/misterprog-dev/kata-bank-account)<br>
-5. 📔 Created new repository [misterprog-dev/kata-fizz-buzz](https://github.com/misterprog-dev/kata-fizz-buzz)<br>
+1. ⬆️ Pushed 1 commit(s) to [misterprog-dev/kata-java-initializer](https://github.com/misterprog-dev/kata-java-initializer)<br>
+2. 📔 Created new repository [misterprog-dev/design-pattern](https://github.com/misterprog-dev/design-pattern)<br>
+3. ⬆️ Pushed 1 commit(s) to [misterprog-dev/kata-bank-account](https://github.com/misterprog-dev/kata-bank-account)<br>
+4. ⬆️ Pushed 3 commit(s) to [misterprog-dev/kata-bank-account](https://github.com/misterprog-dev/kata-bank-account)<br>
+5. 🎉 Merged PR [#1](https://github.com/misterprog-dev/kata-bank-account/pull/1) in [misterprog-dev/kata-bank-account](https://github.com/misterprog-dev/kata-bank-account)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 15th, 2023, 1:07:36 AM
+Last Updated: Tuesday, May 16th, 2023, 1:06:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
