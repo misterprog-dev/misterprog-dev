@@ -14,12 +14,9 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#540](https://github.com/liodali/osm_flutter/issues/540) in [liodali/osm_flutter](https://github.com/liodali/osm_flutter)<br>
-2. ✔️ Closed issue [#545](https://github.com/liodali/osm_flutter/issues/545) in [liodali/osm_flutter](https://github.com/liodali/osm_flutter)<br>
-3. 💬 Commented on [#545](https://github.com/liodali/osm_flutter/issues/545#issuecomment-2261519198) in [liodali/osm_flutter](https://github.com/liodali/osm_flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 1st, 2024, 1:20:42 AM
+Last Updated: Saturday, November 2nd, 2024, 1:13:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
