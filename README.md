@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @misterprog-dev, software engineer.
 - 👀 I’m interested in web technologies.
 - 💞️ I’m looking to collaborate on all project that will permit me to improve my skills.
-- 📫 How to reach me ? this is my email : soum.diakite@outlook.com and my LinkedIn profil: https://www.linkedin.com/in/diakite-soumaila-a61185156
+- 📫 How to reach me ? this is my email : soum.diakite@outlook.com and my LinkedIn profil: https://www.linkedin.com/in/diakite-soumaila
 
 
 ## **📈 My Personal Stats**
