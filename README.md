@@ -14,10 +14,11 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [misterprog-dev/learning-notes](https://github.com/misterprog-dev/learning-notes) from [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes)<br>
+1. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
+2. 🔱 Forked [misterprog-dev/learning-notes](https://github.com/misterprog-dev/learning-notes) from [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 21st, 2026, 3:37:53 AM
+Last Updated: Friday, May 22nd, 2026, 3:36:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
