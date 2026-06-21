@@ -14,10 +14,9 @@
 
 ## **⚡ Recent Activity**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 20th, 2026, 3:36:33 AM
+Last Updated: Sunday, June 21st, 2026, 4:09:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
